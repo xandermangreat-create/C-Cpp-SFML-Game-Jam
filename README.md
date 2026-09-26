@@ -1,5 +1,5 @@
 # C-Cpp-SFML-Game-Jam
-Join the game jam by 11/01/2026 to participate! It ends on 01/31/2027. Voting happens from 02/01/2027 to 02/31/2027. Top three winners are declared on 03/01/2027.
+Join the game jam by 11/01/2026 to participate! It ends on 01/31/2027. Voting happens from 02/01/2027 to 02/28/2027. Top three winners are declared on 03/01/2027.
 
 1. Joining:
    Create a fork of this repository for you to work with. When done, submit it in a branch (I'm not really familiar with Git software, so do whatever is necessary).
